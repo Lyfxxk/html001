@@ -20,5 +20,6 @@
 		<p>这是弗洛伊德，他被美国警察跪压得不能呼吸了（单击图片获得更多信息）</p>
 		<a href="https://baike.baidu.com/item/%E4%B9%94%E6%B2%BB%C2%B7%E5%BC%97%E6%B4%9B%E4%BC%8A%E5%BE%B7/50241399?fr=aladdin">
 			<img src="photo/b.jpg" width="100px">
+		</a>
 	</body>
 </html>
